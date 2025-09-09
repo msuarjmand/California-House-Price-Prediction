@@ -1,2 +1,15 @@
 # California-House-Price-Prediction
-This is a regression problem to predict california housing prices.
+This project applies machine learning techniques to predict housing prices in California, using the California Housing dataset.
+
+The dataset contains 20640 entries and 10 variables.
+
+ - Longitude
+ - Latitude
+ - Housing Median Age
+ - Total Rooms
+ - Total Bedrooms
+ - Population
+ - Households
+ - Median Income
+ - Median House Value
+ - Ocean Proximity
