@@ -1,4 +1,4 @@
-# California-House-Price-Prediction
+# California House Price Prediction
 This project applies machine learning techniques to predict housing prices in California, using the California Housing dataset.
 
 The dataset contains 20640 entries and 10 variables:
