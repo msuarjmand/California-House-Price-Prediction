@@ -15,4 +15,4 @@ The dataset contains 20640 entries and 10 variables:
  - Ocean Proximity
 
 
-In this problem, the Median House Value is selected as the target variable to be predicted using machine learning.
+
