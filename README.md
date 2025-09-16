@@ -15,4 +15,4 @@ The dataset contains 20640 entries and 10 variables:
  - Ocean Proximity
 
 
-
+The target variable is the median house value for California districts, expressed in hundreds of thousands of dollars ($100,000).
