@@ -27,3 +27,5 @@ It can be downloaded/loaded using the
 - Pace, R. Kelley and Ronald Barry, Sparse Spatial Autoregressions, Statistics and Probability Letters, 33 (1997) 291-297
 
 This project focuses on predicting housing prices in California using machine learning techniques.
+
+# Project Overview
